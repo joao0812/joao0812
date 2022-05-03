@@ -1,7 +1,7 @@
 ### Eae! Eu sou João Pedro Almeida
 
 - 🔭 Hoje eu estou estudando programação
-- 🌱 Aprendendo: Front-end & Back-end como foco em Python, HTML, CSS e Js
+- 🌱 Aprendendo: Front-end & Back-end com foco em Python, HTML, CSS e Js
 - 🎓 Técnico de Automação Industrial & Graduando de Engenharia de Controle e Automação
 - 😄 Pronouns: Ele/dele
 
