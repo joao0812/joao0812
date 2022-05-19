@@ -1,4 +1,4 @@
-### Eae! Eu sou João Pedro Almeida
+### Salve! Eu sou João Pedro Almeida
 
 - 🔭 Hoje eu estou estudando programação
 - 🌱 Aprendendo: Front-end & Back-end com foco em Python, HTML, CSS e Js
