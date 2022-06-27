@@ -1,9 +1,9 @@
 ### Salve! Eu sou João Pedro Almeida
 
-- 🔭 Hoje eu estou estudando programação
-- 🌱 Aprendendo: Front-end & Back-end com foco em Python, HTML, CSS e Js
+- 🔭 Hoje eu estou focando em Front-end para desenvolvimento WEB
+- 🌱 Aprendendo: Front-end & Back-end com objetivo de ser Full-stack
 - 🎓 Técnico de Automação Industrial & Graduando de Engenharia de Controle e Automação
-- 😄 Pronouns: Ele/dele
+- 😄 Estudando: TypeScript
 
 
 <div align="center">
