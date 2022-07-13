@@ -3,7 +3,7 @@
 - 🔭 Hoje eu estou focando em Front-end para desenvolvimento WEB
 - 🌱 Aprendendo: Front-end & Back-end com objetivo de ser Full-stack
 - 🎓 Técnico de Automação Industrial & Graduando de Engenharia de Controle e Automação
-- 😄 Estudando: TypeScript
+- 😄 Estudando: TypeScript & Vue.js
 
 
 <div align="center">
