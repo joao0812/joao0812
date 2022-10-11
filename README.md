@@ -26,6 +26,7 @@
   <img align="center" alt="João-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="João-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="João-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="João-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="right" alt="Pingo-gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/ku5EcFe4PNGWA/giphy.gif">
 </div>
 
