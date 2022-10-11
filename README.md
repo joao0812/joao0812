@@ -1,6 +1,6 @@
 ### Salve! Eu sou João Pedro Almeida
 
-- 🔭 Hoje eu trabalho com Full-stack, mas focando em Ciência de dados.
+- 🔭 Hoje eu trabalho como Full-stack, mas focando em Ciência de dados.
 - 🌱 Aprendendo: Conceitos da Ciência de dados, IA, ML e processamento de imagen
 - 🎓 Técnico de Automação Industrial & Graduando de Engenharia de Controle e Automação
 - 😄 Estudando: IA, ML e SQL
