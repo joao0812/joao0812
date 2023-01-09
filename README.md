@@ -1,7 +1,7 @@
 ### Salve! Eu sou João Pedro Almeida
 
 - 🔭 Hoje eu trabalho como Full-stack, focado em Desenvolvimento WEB.
-- 🌱 Aprendendo: Conceitos da Ciência de dados, IA, ML, processamento de imagen e UI/UX
+- 🌱 Aprendendo: Conceitos da Ciência de dados, IA, ML, visão computacional e UI/UX
 - 🎓 Técnico de Automação Industrial & Graduando de Engenharia de Controle e Automação
 - 😄 Estudando: IA, ML, SQL e Vuejs
 
