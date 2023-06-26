@@ -2,8 +2,8 @@
 
 - 🔭 Hoje eu trabalho como FullStack Jr, focado em Visão Computacional
 - 🌱 Aprendendo: Conceitos da Ciência de dados, IA, ML, visão computacional e UI/UX
-- 🎓 Técnico de Automação Industrial & Graduando de Engenharia de Controle e Automação
-- 😄 Estudando: IA, ML, SQL e Vuejs
+- 🎓 Engenheiro de Controle e Automação $ Técnico de Automação Industrial
+- 😄 Estudando: OpenCV e Vuejs
 
 
 <div align="center">
