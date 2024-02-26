@@ -3,7 +3,7 @@
 - 🔭 Hoje eu trabalho com PD&I em Ciência de Dados com foco Inteligência Artificial mas participo de projetos como desenvolvedor FullStack
 - 🌱 Aprendendo: Conceitos de desenvolvimento de software, Arquitetura de Software, modelos de IA generativa e UI/UX
 - 🎓 Pós graduando em Arquitetura de Software, Engenheiro de Controle e Automação & Técnico de Automação Industrial
-- 😄 Estudando: C#, .NET, VueJS, Série temporais e modelos de IA com aspecto temporal
+- 😄 Estudando: C#, .NET, VueJS e Golang
 
 
 <div align="center">
