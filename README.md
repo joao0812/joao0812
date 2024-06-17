@@ -1,9 +1,9 @@
 ### Salve! Eu sou João Pedro Almeida
 
-- 🔭 Hoje eu trabalho com PD&I em Ciência de Dados com foco Inteligência Artificial mas participo de projetos como desenvolvedor FullStack
-- 🌱 Aprendendo: Conceitos de desenvolvimento de software, Arquitetura de Software, modelos de IA generativa e UI/UX
+- 🔭 Hoje eu trabalho como desenvolvedor FullStack e Blockchain
+- 🌱 Aprendendo: Conceitos de desenvolvimento de software, Arquitetura de Software, modelos de IA e Cloud
 - 🎓 Pós graduando em Arquitetura de Software, Engenheiro de Controle e Automação & Técnico de Automação Industrial
-- 😄 Estudando: C#, .NET, VueJS e Golang
+- 😄 Estudando: Angular, Golang, Solidity, Blockchain & WEB3
 
 
 <div align="center">
