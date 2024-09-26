@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu trabalho como desenvolvedor FullStack e Blockchain
 - 🌱 Aprendendo: Conceitos de desenvolvimento de software, Arquitetura de Software, modelos de IA e Cloud
-- 🎓 Pós graduando em Arquitetura de Software, Engenheiro de Controle e Automação & Técnico de Automação Industrial
+- 🎓 Pós graduado em Arquitetura de Software, Engenheiro de Controle e Automação & Técnico de Automação Industrial
 - 😄 Estudando: Angular, Golang, Solidity, Blockchain & WEB3
 
 
